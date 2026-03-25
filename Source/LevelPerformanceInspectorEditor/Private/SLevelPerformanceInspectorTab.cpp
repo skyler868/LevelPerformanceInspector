@@ -205,7 +205,7 @@ void SLevelPerformanceInspectorTab::JumpToObject(TSharedPtr<FTickRiskResult> Ite
 	}
 	GEditor->SelectNone(false, true);
 
-	GEditor->SelectNone(false, true);
+	
 	
 	
 
