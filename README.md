@@ -1,3 +1,3 @@
 # LevelPerformanceInspector
 
-![](Images\pic.png)
+![](/Images/pic.png)
